@@ -1,2 +1,2 @@
-# Counter-App
-Counter app using JS
+# Counter App
+## using JS
